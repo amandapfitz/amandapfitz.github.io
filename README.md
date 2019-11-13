@@ -1,1 +1,1 @@
-# amandapfitz.github.io
+# web-lat-challenge
